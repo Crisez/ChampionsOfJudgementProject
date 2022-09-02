@@ -1,0 +1,63 @@
+﻿* background-color: #262626;
+
+body {
+	padding: 35px;
+	font-family: Arial, "Calisto MT";
+}
+
+.navColor {
+	background-color: #404040;
+}
+
+header {
+	background-color: #404040;
+	color: #ffffff;
+}
+
+nav {
+	font-size: 25px;
+}
+
+.navbar-brand {
+	font-size: 33px;
+}
+
+
+.jumbotron {
+	background: url(../images/knight.JPG) top center no-repeat;
+	opacity: 0.5;
+	height: 250px;
+	margin: 0px;
+}
+
+section {
+	background-color: #404040;
+	margin: 10px 0px 10px 0px;
+	padding: 15px;
+	
+}
+
+footer {
+	background-color: #404040;
+	padding: 15px;
+	color: #ffffff;
+	font-family: Arial;
+}
+
+.boxFiller {
+	background-color: #808080;
+	padding: 15px;
+	border-radius: 5px;
+	color: #ffffff;
+}
+
+p {
+	font-family: Arial;
+}
+
+a:link {
+	color: rgb(0, 255, 0);
+}
+a:visited {
+	color: rgb(51, 204, 51);
+}
